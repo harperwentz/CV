@@ -1,0 +1,22 @@
+
+
+body{
+  background-color: #E9D5CA;
+}
+
+hr {
+  color: silver;
+  border-style: dotted none none none;
+  border-width: 7px;
+  width: 5%
+}
+
+h1 {
+  color: #363062;
+  font-family: serif, Helvetica;
+}
+
+h3 {
+  color: #827397;
+  font-family: serif, Helvetica;
+}
